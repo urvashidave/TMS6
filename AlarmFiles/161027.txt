@@ -1,0 +1,56 @@
+> 10/27/16 00:01:08:572795 CNRCFL:09101 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/27/16 00:01:08:572877 CNRCFL:09101 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/27/16 00:01:08:573208 CNRCFL:09101 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/27/16 00:01:08:573351 CNRCFL:09101 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/27/16 00:01:08:625297 CNRCFL:09109 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/27/16 00:01:08:625376 CNRCFL:09109 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/27/16 00:01:08:625426 CNRCFL:09109 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/27/16 00:01:08:625480 CNRCFL:09109 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/27/16 00:01:08:672961 CNRCFL:09071 unitmtl         - [0101] Removing all alarms for this preset.
+> 10/27/16 00:01:08:691585 CNRCFL:09081 unitmtl         - [0104] Removing all alarms for this preset.
+> 10/27/16 00:01:08:697145 CNRCFL:09085 unitmtl         - [0201] Removing all alarms for this preset.
+> 10/27/16 00:01:08:698031 CNRCFL:09108 unitmtl         - [0301] Removing all alarms for this preset.
+> 10/27/16 00:01:08:698366 CNRCFL:09095 unitmtl         - [0204] Removing all alarms for this preset.
+> 10/27/16 00:01:08:727063 CNRCFL:09077 unitmtl         - [0103] Removing all alarms for this preset.
+> 10/27/16 00:01:08:728447 CNRCFL:09075 unitmtl         - [0102] Removing all alarms for this preset.
+> 10/27/16 00:01:08:747234 CNRCFL:09089 unitmtl         - [0202] Removing all alarms for this preset.
+> 10/27/16 00:01:08:748263 CNRCFL:09091 unitmtl         - [0203] Removing all alarms for this preset.
+> 10/27/16 00:01:08:762489 CNRCFL:09110 unitmtl         - [0401] Removing all alarms for this preset.
+> 10/27/16 01:05:03:700057 CNRCFL:18781 tvs_opto        - DELETE FROM AlarmMessages WHERE message_type = 'ALARM' AND (message_tag like 'T%_COMM_F' OR message_tag like 'T%_DATA_F')
+> 10/27/16 12:24:54:708988 CNRCFL:09083 bay_rcu         - [BAY02] [03] (10/27/16 12:25:02) PRESET 3 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 10/27/16 12:24:54:710236 CNRCFL:09083 bay_rcu         - [BAY02] [02] (10/27/16 12:25:02) PRESET 3 METER 2, (*LOW FLOW) METER ALARM RAISED.
+> 10/27/16 12:24:54:711469 CNRCFL:09083 bay_rcu         - [BAY02] [01] (10/27/16 12:25:02) PRESET 3 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 10/27/16 12:24:54:712707 CNRCFL:09083 bay_rcu         - [BAY02] [00] (10/27/16 12:25:02) PRESET 3 COMPONENT 3, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 10/27/16 12:24:55:242760 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 10/27/16 12:24:55:688138 CNRCFL:09091 unitmtl         - [0203] check effect alarm (P5)
+> 10/27/16 12:24:55:688983 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (0) METER ALARM ! ***
+> 10/27/16 12:24:55:689918 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (2) METER ALARM ! ***
+> 10/27/16 12:24:55:692055 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: METER (0) LEVEL LOW FLOW ALARM ! ***
+> 10/27/16 12:24:55:692914 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: METER (1) LEVEL LOW FLOW ALARM ! ***
+> 10/27/16 12:24:57:695810 CNRCFL:09091 unitmtl         - [0203] check effect alarm (P5)
+> 10/27/16 12:24:57:695887 CNRCFL:09091 unitmtl         - [0203] check effect alarm (C5)
+> 10/27/16 12:24:57:695947 CNRCFL:09091 unitmtl         - [0203] check effect alarm (C5)
+> 10/27/16 12:24:57:696008 CNRCFL:09091 unitmtl         - [0203] check effect alarm (M6)
+> 10/27/16 12:24:57:696065 CNRCFL:09091 unitmtl         - [0203] check effect alarm (M6)
+> 10/27/16 12:25:41:817438 CNRCFL:09083 bay_rcu         - [BAY02] [03] (10/27/16 12:25:49) PRESET 3 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 10/27/16 12:25:41:818663 CNRCFL:09083 bay_rcu         - [BAY02] [02] (10/27/16 12:25:49) PRESET 3 METER 2, (*LOW FLOW) METER ALARM CLEARED.
+> 10/27/16 12:25:41:819867 CNRCFL:09083 bay_rcu         - [BAY02] [01] (10/27/16 12:25:49) PRESET 3 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 10/27/16 12:25:41:821151 CNRCFL:09083 bay_rcu         - [BAY02] [00] (10/27/16 12:25:49) PRESET 3 COMPONENT 3, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 10/27/16 12:25:43:111715 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION CLEARED ***
+> 10/27/16 12:25:43:112634 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 C5
+> 10/27/16 12:25:43:241580 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 M6
+> 10/27/16 12:25:43:243905 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 P5
+> 10/27/16 17:02:47:992189 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 10/27/16 17:02:47:993272 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (2) METER ALARM ! ***
+> 10/27/16 17:02:47:995242 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION: METER (0) LEVEL LOW FLOW ALARM ! ***
+> 10/27/16 17:02:48:009696 CNRCFL:09091 unitmtl         - [0203] check effect alarm (P5)
+> 10/27/16 17:02:48:009776 CNRCFL:09091 unitmtl         - [0203] check effect alarm (C5)
+> 10/27/16 17:02:48:009833 CNRCFL:09091 unitmtl         - [0203] check effect alarm (M6)
+> 10/27/16 17:02:48:490056 CNRCFL:09083 bay_rcu         - [BAY02] [01] (10/27/16 17:02:58) PRESET 3 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 10/27/16 17:02:48:491284 CNRCFL:09083 bay_rcu         - [BAY02] [00] (10/27/16 17:02:58) PRESET 3 COMPONENT 3, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 10/27/16 17:04:10:676599 CNRCFL:09083 bay_rcu         - [BAY02] [01] (10/27/16 17:04:20) PRESET 3 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 10/27/16 17:04:10:677826 CNRCFL:09083 bay_rcu         - [BAY02] [00] (10/27/16 17:04:20) PRESET 3 COMPONENT 3, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 10/27/16 17:04:12:444955 CNRCFL:09091 unitmtl         - [0203] PRESET: *** ALARM CONDITION CLEARED ***
+> 10/27/16 17:04:12:446283 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 C5
+> 10/27/16 17:04:12:450253 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 M6
+> 10/27/16 17:04:12:452007 CNRCFL:09091 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 P5

@@ -1,0 +1,160 @@
+> 12/05/16 01:05:03:268266 CNRCFL:13012 tvs_opto        - DELETE FROM AlarmMessages WHERE message_type = 'ALARM' AND (message_tag like 'T%_COMM_F' OR message_tag like 'T%_DATA_F')
+> 12/05/16 04:15:16:872582 CNRCFL:16731 unitmtl         - [0101] Removing all alarms for this preset.
+> 12/05/16 04:15:16:893353 CNRCFL:16738 unitmtl         - [0104] Removing all alarms for this preset.
+> 12/05/16 04:15:16:928871 CNRCFL:16734 unitmtl         - [0102] Removing all alarms for this preset.
+> 12/05/16 04:15:16:930195 CNRCFL:16736 unitmtl         - [0103] Removing all alarms for this preset.
+> 12/05/16 04:15:17:553315 CNRCFL:16731 unitmtl         - [0101] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:17:557966 CNRCFL:16738 unitmtl         - [0104] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:17:680799 CNRCFL:16734 unitmtl         - [0102] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:17:683342 CNRCFL:16736 unitmtl         - [0103] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:24:247658 CNRCFL:16946 unitmtl         - [0204] Removing all alarms for this preset.
+> 12/05/16 04:15:24:248956 CNRCFL:16940 unitmtl         - [0201] Removing all alarms for this preset.
+> 12/05/16 04:15:26:019612 CNRCFL:16944 unitmtl         - [0203] Removing all alarms for this preset.
+> 12/05/16 04:15:26:020861 CNRCFL:16942 unitmtl         - [0202] Removing all alarms for this preset.
+> 12/05/16 04:15:26:528210 CNRCFL:16946 unitmtl         - [0204] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:26:534638 CNRCFL:16940 unitmtl         - [0201] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:26:718714 CNRCFL:16944 unitmtl         - [0203] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:26:722312 CNRCFL:16942 unitmtl         - [0202] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:31:502235 CNRCFL:17146 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 12/05/16 04:15:31:502313 CNRCFL:17146 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 12/05/16 04:15:31:502373 CNRCFL:17146 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 12/05/16 04:15:31:502437 CNRCFL:17146 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 12/05/16 04:15:31:618552 CNRCFL:17148 unitmtl         - [0301] Removing all alarms for this preset.
+> 12/05/16 04:15:32:200287 CNRCFL:17148 unitmtl         - [0301] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 04:15:35:454810 CNRCFL:17183 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 12/05/16 04:15:35:454888 CNRCFL:17183 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 12/05/16 04:15:35:454943 CNRCFL:17183 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 12/05/16 04:15:35:455000 CNRCFL:17183 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 12/05/16 04:15:35:554040 CNRCFL:17185 unitmtl         - [0401] Removing all alarms for this preset.
+> 12/05/16 05:41:47:028352 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 05:41:47:030856 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (0) METER ALARM ! ***
+> 12/05/16 05:41:47:033129 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: METER (1) LEVEL EXCESS FLOW ALARM ! ***
+> 12/05/16 05:41:47:564130 CNRCFL:16938 bay_rcu         - [BAY02] [01] (12/05/16 05:41:43) PRESET 3 METER 2, (*EXCESS FL) METER ALARM RAISED.
+> 12/05/16 05:41:47:565405 CNRCFL:16938 bay_rcu         - [BAY02] [00] (12/05/16 05:41:43) PRESET 3 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 12/05/16 05:41:49:035335 CNRCFL:16944 unitmtl         - [0203] check effect alarm (P5)
+> 12/05/16 05:41:49:035417 CNRCFL:16944 unitmtl         - [0203] check effect alarm (C5)
+> 12/05/16 05:41:49:035494 CNRCFL:16944 unitmtl         - [0203] check effect alarm (M7)
+> 12/05/16 05:43:17:388896 CNRCFL:16938 bay_rcu         - [BAY02] ALARM RESET COMMAND RECEIVED FOR (MTR0203) (METER=Gasoline) (BAY=Loading Multiload 2)
+> 12/05/16 05:43:17:391378 CNRCFL:16944 unitmtl         - [0203] Received CMD_RESET_ALARM
+> 12/05/16 05:43:19:405662 CNRCFL:16944 unitmtl         - [0203] PRESET: ERROR! RECURRING ALARM CANNOT BE RESET!
+> 12/05/16 05:43:19:411121 CNRCFL:16938 bay_rcu         - [BAY02] [01] (12/05/16 05:43:15) PRESET 3 METER 2, (*EXCESS FL) METER ALARM CLEARED.
+> 12/05/16 05:43:19:412765 CNRCFL:16938 bay_rcu         - [BAY02] [00] (12/05/16 05:43:15) PRESET 3 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 12/05/16 05:43:21:410138 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 05:43:21:411005 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 C5
+> 12/05/16 05:43:21:590699 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 M7
+> 12/05/16 05:43:21:592261 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 P5
+> 12/05/16 05:43:24:425935 CNRCFL:16938 bay_rcu         - [BAY02] [03] (12/05/16 05:43:20) PRESET 3 COMPONENT 1, UNDER BLEND RECIPE TOL ALARM OF -9005 PCT, 0 VOL.
+> 12/05/16 05:43:24:427674 CNRCFL:16938 bay_rcu         - [BAY02] [02] (12/05/16 05:43:20) PRESET 3 COMPONENT 3, OVER BLEND RECIPE TOL ALARM OF 13037 PCT, 2 VOL.
+> 12/05/16 05:43:24:429388 CNRCFL:16938 bay_rcu         - [BAY02] [01] (12/05/16 05:43:20) PRESET 3 COMPONENT 1, (*UND BLEND) COMPONENT ALARM RAISED.
+> 12/05/16 05:43:24:431067 CNRCFL:16938 bay_rcu         - [BAY02] [00] (12/05/16 05:43:20) PRESET 3 COMPONENT 3, (*OVR BLEND) COMPONENT ALARM RAISED.
+> 12/05/16 05:43:25:642998 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 05:43:25:648428 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (0) UNDER BLEND TOL ! ***
+> 12/05/16 05:43:25:649173 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION: COMPONENT (2) OVER BLEND TOL ! ***
+> 12/05/16 05:43:25:664107 CNRCFL:16944 unitmtl         - [0203] trans_complete: current_recipe = 1, current_state = ALARM TRANS_DONE AUTHORIZED ARCHIVING
+> 12/05/16 05:43:25:698083 CNRCFL:16944 unitmtl         - [0203] TRANS DONE STATUS: ALARM TRANS_DONE AUTHORIZED ARCHIVING
+> 12/05/16 05:43:26:701822 CNRCFL:16944 unitmtl         - [0203] check effect alarm (P5)
+> 12/05/16 05:43:26:701889 CNRCFL:16944 unitmtl         - [0203] check effect alarm (C7)
+> 12/05/16 05:43:26:701938 CNRCFL:16944 unitmtl         - [0203] check effect alarm (C6)
+> 12/05/16 05:43:37:424415 CNRCFL:16938 bay_rcu         - [BAY02] [01] (12/05/16 05:43:33) PRESET 3 COMPONENT 1, (*UND BLEND) COMPONENT ALARM CLEARED.
+> 12/05/16 05:43:37:425675 CNRCFL:16938 bay_rcu         - [BAY02] [00] (12/05/16 05:43:33) PRESET 3 COMPONENT 3, (*OVR BLEND) COMPONENT ALARM CLEARED.
+> 12/05/16 05:43:50:612845 CNRCFL:16938 bay_rcu         - [BAY02] ALARM RESET COMMAND RECEIVED FOR (MTR0203) (METER=Gasoline) (BAY=Loading Multiload 2)
+> 12/05/16 05:43:50:613309 CNRCFL:16944 unitmtl         - [0203] Received CMD_RESET_ALARM
+> 12/05/16 05:43:56:073462 CNRCFL:16944 unitmtl         - [0203] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 05:43:56:074178 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 C6
+> 12/05/16 05:43:56:222423 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 C7
+> 12/05/16 05:43:56:224012 CNRCFL:16944 unitmtl         - [0203] Clearing RACKSTAT ALARM 0000002 M0203 P5
+> 12/05/16 09:16:27:697954 CNRCFL:26694 unitmtl         - [0401] Removing all alarms for this preset.
+> 12/05/16 09:16:27:724879 CNRCFL:26680 unitmtl         - [0101] Removing all alarms for this preset.
+> 12/05/16 09:16:27:728373 CNRCFL:26692 unitmtl         - [0301] Removing all alarms for this preset.
+> 12/05/16 09:16:27:739196 CNRCFL:26683 unitmtl         - [0104] Removing all alarms for this preset.
+> 12/05/16 09:16:27:758141 CNRCFL:26685 unitmtl         - [0201] Removing all alarms for this preset.
+> 12/05/16 09:16:27:777909 CNRCFL:26690 unitmtl         - [0204] Removing all alarms for this preset.
+> 12/05/16 09:16:27:789174 CNRCFL:26682 unitmtl         - [0103] Removing all alarms for this preset.
+> 12/05/16 09:16:27:791882 CNRCFL:26681 unitmtl         - [0102] Removing all alarms for this preset.
+> 12/05/16 09:16:27:815875 CNRCFL:26686 unitmtl         - [0202] Removing all alarms for this preset.
+> 12/05/16 09:16:27:817376 CNRCFL:26687 unitmtl         - [0203] Removing all alarms for this preset.
+> 12/05/16 09:16:28:349446 CNRCFL:26694 unitmtl         - [0401] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:432224 CNRCFL:26692 unitmtl         - [0301] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:474628 CNRCFL:26680 unitmtl         - [0101] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:515014 CNRCFL:26683 unitmtl         - [0104] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:522937 CNRCFL:26685 unitmtl         - [0201] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:548774 CNRCFL:26690 unitmtl         - [0204] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:683932 CNRCFL:26682 unitmtl         - [0103] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:695958 CNRCFL:26681 unitmtl         - [0102] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:719229 CNRCFL:26687 unitmtl         - [0203] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 09:16:28:723373 CNRCFL:26686 unitmtl         - [0202] display_environment: Additive alarm contact: 'NONE'
+> 12/05/16 10:22:05:597682 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038799) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:629072 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038800) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:639845 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038801) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:650464 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038802) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:661054 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038803) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:762144 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038804) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:781358 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038805) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:798714 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038806) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:815978 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038807) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:833568 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038808) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:851548 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038809) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:870545 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038810) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:924679 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038811) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:934696 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038812) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:958334 CNRCFL:04303 tmseod          - SQL Insert into TrnGauge failed for trans_ref_no (0010038813) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:972364 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038814) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:983339 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038815) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:05:996463 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038816) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:012415 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038817) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:027774 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038818) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:042142 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038819) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:056444 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038820) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:070842 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038821) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:084283 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038822) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:098478 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038823) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:112845 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038824) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:138746 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038825) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:153494 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038826) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:167455 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038827) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:181056 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038828) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:195165 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038829) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:209054 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038830) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:223045 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038831) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:241873 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038832) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:255569 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038833) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:269303 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038834) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 10:22:06:283359 CNRCFL:04303 tmseod          - SQL Insert into TrnMeter failed for trans_ref_no (0010038835) : error 1048 : Column 'folio_yr' cannot be null
+> 12/05/16 12:22:20:384861 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:22:18) PRESET 4 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 12/05/16 12:22:20:386142 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:22:18) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 12/05/16 12:22:21:283587 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 12:22:21:737027 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: COMPONENT (0) METER ALARM ! ***
+> 12/05/16 12:22:21:739382 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: METER (0) LEVEL LOW FLOW ALARM ! ***
+> 12/05/16 12:22:21:744025 CNRCFL:26690 unitmtl         - [0204] check effect alarm (P5)
+> 12/05/16 12:22:21:744082 CNRCFL:26690 unitmtl         - [0204] check effect alarm (C5)
+> 12/05/16 12:22:21:744127 CNRCFL:26690 unitmtl         - [0204] check effect alarm (M6)
+> 12/05/16 12:23:02:637542 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:23:00) PRESET 4 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 12/05/16 12:23:02:638824 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:23:00) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 12/05/16 12:23:03:165958 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 12:23:03:166678 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 C5
+> 12/05/16 12:23:03:168292 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 M6
+> 12/05/16 12:23:03:169939 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 P5
+> 12/05/16 12:23:31:697554 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:23:29) PRESET 4 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 12/05/16 12:23:31:698834 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:23:29) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 12/05/16 12:23:32:131279 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 12:23:32:459184 CNRCFL:26690 unitmtl         - [0204] check effect alarm (P5)
+> 12/05/16 12:25:05:740675 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:25:03) PRESET 4 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 12/05/16 12:25:05:741915 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:25:03) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 12/05/16 12:25:06:508752 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 12:25:06:509675 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 P5
+> 12/05/16 12:45:26:101975 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:45:25) PRESET 4 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 12/05/16 12:45:26:103281 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:45:25) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 12/05/16 12:45:27:230122 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 12:45:27:687761 CNRCFL:26690 unitmtl         - [0204] check effect alarm (P5)
+> 12/05/16 12:45:56:171638 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:45:54) PRESET 4 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 12/05/16 12:45:56:172925 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:45:54) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 12/05/16 12:45:56:785124 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 12:45:56:785911 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 P5
+> 12/05/16 12:46:24:824018 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:46:23) PRESET 4 METER 1, (*LOW FLOW) METER ALARM RAISED.
+> 12/05/16 12:46:24:825288 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:46:23) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM RAISED.
+> 12/05/16 12:46:24:917315 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION: COMPONENT LEVEL ALARM INDICATED ! ***
+> 12/05/16 12:46:25:378270 CNRCFL:26690 unitmtl         - [0204] check effect alarm (P5)
+> 12/05/16 12:46:29:835266 CNRCFL:26684 bay_rcu         - [BAY02] [01] (12/05/16 12:46:28) PRESET 4 METER 1, (*LOW FLOW) METER ALARM CLEARED.
+> 12/05/16 12:46:29:836538 CNRCFL:26684 bay_rcu         - [BAY02] [00] (12/05/16 12:46:28) PRESET 4 COMPONENT 1, (*MTR ALARM) COMPONENT ALARM CLEARED.
+> 12/05/16 12:46:30:634344 CNRCFL:26690 unitmtl         - [0204] PRESET: *** ALARM CONDITION CLEARED ***
+> 12/05/16 12:46:30:635323 CNRCFL:26690 unitmtl         - [0204] Clearing RACKSTAT ALARM 0000002 M0204 P5

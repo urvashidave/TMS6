@@ -1,0 +1,30 @@
+> 10/16/16 00:25:02:516745 CNRCFL:09543 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/16/16 00:25:02:516800 CNRCFL:09543 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/16/16 00:25:02:516842 CNRCFL:09543 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/16/16 00:25:02:516871 CNRCFL:09543 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/16/16 00:25:02:520605 CNRCFL:09545 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/16/16 00:25:02:520638 CNRCFL:09545 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms1.cfg)
+> 10/16/16 00:25:02:520664 CNRCFL:09545 bay_rcu         - Processing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/16/16 00:25:02:520693 CNRCFL:09545 bay_rcu         - Missing Alarms config file (/toptech_prj/cfg/alarms.cfg)
+> 10/16/16 00:25:02:617346 CNRCFL:09528 unitmtl         - [0101] Removing all alarms for this preset.
+> 10/16/16 00:25:02:626775 CNRCFL:09537 unitmtl         - [0104] Removing all alarms for this preset.
+> 10/16/16 00:25:02:626826 CNRCFL:09544 unitmtl         - [0301] Removing all alarms for this preset.
+> 10/16/16 00:25:02:633774 CNRCFL:09546 unitmtl         - [0401] Removing all alarms for this preset.
+> 10/16/16 00:25:02:648982 CNRCFL:09539 unitmtl         - [0201] Removing all alarms for this preset.
+> 10/16/16 00:25:02:657136 CNRCFL:09542 unitmtl         - [0204] Removing all alarms for this preset.
+> 10/16/16 00:25:02:691925 CNRCFL:09529 unitmtl         - [0102] Removing all alarms for this preset.
+> 10/16/16 00:25:02:694817 CNRCFL:09534 unitmtl         - [0103] Removing all alarms for this preset.
+> 10/16/16 00:25:02:713194 CNRCFL:09540 unitmtl         - [0202] Removing all alarms for this preset.
+> 10/16/16 00:25:02:714415 CNRCFL:09541 unitmtl         - [0203] Removing all alarms for this preset.
+> 10/16/16 00:25:03:305170 CNRCFL:09544 unitmtl         - [0301] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:359798 CNRCFL:09546 unitmtl         - [0401] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:415492 CNRCFL:09528 unitmtl         - [0101] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:421266 CNRCFL:09537 unitmtl         - [0104] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:450537 CNRCFL:09539 unitmtl         - [0201] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:468003 CNRCFL:09542 unitmtl         - [0204] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:706056 CNRCFL:09529 unitmtl         - [0102] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:774174 CNRCFL:09534 unitmtl         - [0103] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:774960 CNRCFL:09540 unitmtl         - [0202] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 00:25:03:788648 CNRCFL:09541 unitmtl         - [0203] display_environment: Additive alarm contact: 'NONE'
+> 10/16/16 18:28:50:898110 CNRCFL:09527 bay_rcu         - [BAY01] CARD PULLED! (BAY=Loading Multiload 1)
+> 10/16/16 18:31:44:634293 CNRCFL:28571 bay_rcu         - [BAY06] Carding In Driver (00000324)
